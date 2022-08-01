@@ -1,2 +1,2 @@
-# L-gica-1
-Primer Test Alura
+# Logica-1
+Primera prueba Alura
